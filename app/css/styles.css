@@ -1,0 +1,41 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    color: #333;
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  * {
+    box-sizing: border-box;
+  }
+
+/* END GLOBAL */
+
+.top H1 {
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(190, 179, 179);
+    margin-bottom: 0;
+}
+.top_words {
+    width: 60%;
+    margin-top: 0;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+  .pic {
+    height: 610px;
+    text-align: center;
+    border: 10px solid black;
+    background-image: url("../images/dot03.jpg");
+    background-repeat: repeat;
+  }
+  .pic img {
+    margin-top: 12px;
+    border: 20px inset red;
+    box-shadow:20px 20px 5px rgb(190, 179, 179);
+  }
