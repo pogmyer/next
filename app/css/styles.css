@@ -33,6 +33,7 @@ body {
     border: 10px solid black;
     background-image: url("../images/dot03.jpg");
     background-repeat: repeat;
+    margin-bottom: 50px;
   }
   .pic img {
     margin-top: 12px;
